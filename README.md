@@ -66,7 +66,7 @@ No build tools, servers, or dependencies required. Just open and go.
 
 ---
 
-## 📱 Responsive Breakpoints
+## Responsive Breakpoints
 
 - **Desktop** – Full 3-column grid
 - **Tablet** – 2-column grid (auto-fit)
@@ -74,7 +74,7 @@ No build tools, servers, or dependencies required. Just open and go.
 
 ---
 
-## 🌟 Inspiration
+## Inspiration
 
 This design was built to showcase material data in a way that feels **industrial, premium, and futuristic** — perfect for engineering dashboards, component catalogs, or design system prototypes.
 
