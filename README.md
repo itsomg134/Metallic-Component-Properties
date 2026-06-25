@@ -58,7 +58,7 @@ No build tools, servers, or dependencies required. Just open and go.
 
 ---
 
-## 🎨 Customization
+## Customization
 
 - **Add a new component** – Duplicate a `.metal-card` block inside `.component-grid` and update the values.
 - **Change colors** – Modify the CSS variables or gradient stops in the `.metal-card` and `.metallic-wrapper` selectors.
