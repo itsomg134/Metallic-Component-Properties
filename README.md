@@ -48,7 +48,7 @@ metallic-component-properties/
 
 ---
 
-## 🖥️ How to Use
+## How to Use
 
 1. **Clone or download** this repository.
 2. Open `index.html` in any modern web browser.
