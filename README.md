@@ -80,7 +80,7 @@ This design was built to showcase material data in a way that feels **industrial
 
 ---
 
-## 📄 License
+## License
 
 MIT — free to use and modify for personal or commercial projects.
 
