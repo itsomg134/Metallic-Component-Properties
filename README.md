@@ -6,7 +6,7 @@ A sleek, futuristic UI dashboard that visualizes material properties of industri
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Metallic Design Language** – Gradients, shadows, and textures that mimic brushed steel, titanium, and copper.
 - **6 Interactive Component Cards** – Each card represents a different alloy or metal (Steel, Titanium, Copper, Aluminum, Stainless Steel, Inconel).
