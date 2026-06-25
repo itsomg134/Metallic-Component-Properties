@@ -2,7 +2,7 @@
 
 A sleek, futuristic UI dashboard that visualizes material properties of industrial components with a **metallic, high-tech aesthetic**. Built with pure HTML & CSS — no JavaScript required.
 
-![metallic-preview](https://via.placeholder.com/800x400/1a1e24/b0c4e0?text=Metallic+Component+Properties)
+<img width="1895" height="1575" alt="image" src="https://github.com/user-attachments/assets/528ac3eb-6e71-4d23-afee-570a0bcacb96" />
 
 ---
 
