@@ -85,13 +85,16 @@ This design was built to showcase material data in a way that feels **industrial
 MIT — free to use and modify for personal or commercial projects.
 
 ---
+##  Contact
 
-## 🙌 Acknowledgements
+Om Gedam
 
-- Icons by [Font Awesome](https://fontawesome.com/)
-- Font stack: *Segoe UI, Roboto, system-ui*
+GitHub: [https://github.com/itsomg134](https://github.com/itsomg134)
 
----
+Email: [omgedam123098@gmail.com](mailto:omgedam123098@gmail.com)
 
-> Built with ❤️ and a lot of metallic gradients.
-```
+Twitter (X): [https://twitter.com/omgedam](https://twitter.com/omgedam)
+
+LinkedIn: [https://linkedin.com/in/omgedam](https://linkedin.com/in/omgedam)
+
+Portfolio: [https://ogworks.lovable.app](https://ogworks.lovable.app)
