@@ -17,7 +17,7 @@ A sleek, futuristic UI dashboard that visualizes material properties of industri
 
 ---
 
-## 🧩 Component Cards Overview
+## Component Cards Overview
 
 | Component      | Key Properties                                  |
 |----------------|-------------------------------------------------|
