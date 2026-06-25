@@ -30,7 +30,7 @@ A sleek, futuristic UI dashboard that visualizes material properties of industri
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **HTML5** – Semantic markup
 - **CSS3** – Flexbox, Grid, custom properties, gradients, backdrop filters
