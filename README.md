@@ -38,7 +38,7 @@ A sleek, futuristic UI dashboard that visualizes material properties of industri
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 metallic-component-properties/
