@@ -1,4 +1,4 @@
-# ⚙️ Metallic Component Properties
+# Metallic Component Properties
 
 A sleek, futuristic UI dashboard that visualizes material properties of industrial components with a **metallic, high-tech aesthetic**. Built with pure HTML & CSS — no JavaScript required.
 
